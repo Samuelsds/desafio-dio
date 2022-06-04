@@ -1,2 +1,2 @@
-Desafio git-icon & GitHub
+desafio-dio
  Desafio de git/github para dio 
